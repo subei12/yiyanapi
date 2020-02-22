@@ -14,13 +14,13 @@
 
 `<hello world>` 
 
-、、、
+```
 @Override
 protected void onDestroy() {
     EventBus.getDefault().unregister(this);
     super.onDestroy();
 }
-、、、
+```
 
 ```java  
   
