@@ -50,6 +50,6 @@ ___特别强调___  (示例：粗斜体)
   > 第一行引用文字 
 > 第二行引用文字 
 
-##GitHub中的README.MD文件编写语法
-###同样适用于博客编译器
-经验来源：https://www.jianshu.com/p/d3a515b94ab3
+## GitHub中的README.MD文件编写语法  
+### 同样适用于博客编译器  
+ 经验来源：https://www.jianshu.com/p/d3a515b94ab3
